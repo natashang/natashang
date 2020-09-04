@@ -12,18 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there! I'm Natasha 😄</h1>
-<h3 align="center">I'm a Software Developer with a passion for building apps with creative, thoughtful user experiences</h3>
+# Hi there! I'm Natasha 😄
+### I'm a Software Developer skilled in Front End Development (particularly React) and UX/UI Design. I have a passion for building applications with creative, thoughtful user experiences.
 
 <p align="center">
 <a href="https://linkedin.com/in/natasha--ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="natasha--ng" height="30" width="30" /></a>&nbsp;
 <a href="mailto:natasha-ng@outlook.com" target="blank" tex><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="natasha.ng" height="30" width="30" /></a>
 </p>
 
-- 📫 How to reach me **natasha-ng@outlook.com**
-- 💬 Ask me about **why I'm interested in front end development**
+- 📫 Reach me at **natasha-ng@outlook.com**
+- 💬 Ask me about **my strengths in taking initiative**, **giving presentations**, and **having a tenacious mindset**
 - 🔭 I’m currently working on **A full stack banking application utilizing React, Redux, Java, and Spring Boot**
-- ⚡ Fun fact **Aug 30, 2020: I biked 55 miles this summer to complete my goal of conquering a local trail end to end!**
+- ⚡ Fun fact **Aug 30, 2020: I biked 55 miles this summer amd completed my goal of conquering a local trail end to end!**
 
 <!-- profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natashang" alt="natashang" /> </p>
