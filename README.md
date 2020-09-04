@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 - 📫 How to reach me **natasha-ng@outlook.com**
-- 💬 Ask me about **my last role at T-Mobile!**
+- 💬 Ask me about **why I'm interested in front end development**
 - 🔭 I’m currently working on **A full stack banking application utilizing React, Redux, Java, and Spring Boot**
 - ⚡ Fun fact **Aug 30, 2020: I biked 55 miles this summer to complete my goal of conquering a local trail end to end!**
 
