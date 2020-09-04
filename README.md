@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **A full stack banking application utilizing React, Redux, Java, and Spring Boot**
 - 📫 How to reach me **natasha-ng@outlook.com**
-- ⚡ Fun fact **Aug 30, 2020: I logged 55 miles biked this summer to complete my goal of conquering a local trail end to end!**
+- ⚡ Fun fact **Aug 30, 2020: I biked 55 miles this summer to complete my goal of conquering a local trail end to end!**
 
 <!-- profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natashang" alt="natashang" /> </p>
