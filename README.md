@@ -46,9 +46,9 @@ I'm passionate about building applications with the audience or customer in mind
   <img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">  
 </code>  
 
-*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<!--*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashang&layout=compact&theme=dracula" alt="most used languages"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashang&layout=compact&theme=dracula" alt="most used languages"/>-->
   <img src="https://github-readme-stats.vercel.app/api?username=natashang&show_icons=true&count_private=true&hide=stars,issues&theme=dracula" alt="activity overview" />
 </p>
 
