@@ -20,10 +20,9 @@ I've worked on a variety of both internal and customer-facing projects as a UX/U
 
 I'm passionate about building applications with the audience or customer in mind to create a creative, thoughtful user experience.
 
-<p align="center">
 <a href="https://linkedin.com/in/natasha--ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="natasha--ng" height="30" width="30" /></a>&nbsp;
 <a href="mailto:natasha-ng@outlook.com" target="blank" tex><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="natasha.ng" height="30" width="30" /></a>
-</p>
+
 
 - 💬 Ask me about anything [here](mailto:natasha-ng@outlook.com)
 - 🌱 I’m currently learning Angular
@@ -46,6 +45,7 @@ I'm passionate about building applications with the audience or customer in mind
   <img height="30" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">  
 </code>  
 
+&nbsp;
 <!--*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*-->
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashang&layout=compact&theme=dracula" alt="most used languages"/>-->
