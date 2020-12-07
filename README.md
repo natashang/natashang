@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 I'm a Front End Software Developer from Seattle. 
 
-I've worked on a variety of both internal and customer-facing projects as a UX/UI Designer, React Developer, and Web Designer. I'm passionate about building applications with the audience or customer in mind to create a creative, thoughtful user experience.
+I've worked on a variety of both internal and customer-facing projects as a UX/UI Designer, React Developer, and Web Designer. I've also dabbled in some QA work in the Azure Data Explorer cloud platform.
+
+I'm passionate about building applications with the audience or customer in mind to create a creative, thoughtful user experience.
 
 <p align="center">
 <a href="https://linkedin.com/in/natasha--ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="natasha--ng" height="30" width="30" /></a>&nbsp;
@@ -34,13 +36,15 @@ I've worked on a variety of both internal and customer-facing projects as a UX/U
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">   
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">   
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">  
 </code>  
-
 *NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashang&layout=compact&theme=dracula" alt="most used languages"/>
