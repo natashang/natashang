@@ -42,13 +42,16 @@ I've worked on a variety of both internal and customer-facing projects as a UX/U
 </code>  
 
 *NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashang&layout=compact&theme=dracula" alt="natashang" />
-  <img src="https://github-readme-stats.vercel.app/api?username=natashang&show_icons=true&count_private=true&hide=stars,issues&theme=dracula" alt="natashang" />
-</p>-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashang&layout=compact&theme=dracula" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natashang&show_icons=true&count_private=true&hide=stars,issues&theme=dracula" alt="activity overview" />
+</p>
+
+<!-- Use this template below for aligning repo cards 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashang&layout=compact&theme=dracula" />
+  <img align="center" src="" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natashang&show_icons=true&count_private=true&hide=stars,issues&theme=dracula" />
+  <img align="center" src="" />
 </a>
+-->
