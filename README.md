@@ -20,9 +20,9 @@ I've worked on a variety of both internal and customer-facing projects as a UX/U
 
 I'm passionate about writing clean, understandable, and reusable components. I simplify my code so that my future self will (hopefully) thank me... and question me less on why I did things the way I did. I'm a visual, creative, and logical thinker.
 
+<!-- - 🌱 I’m currently learning Angular -->
 - 🌐 Visit my LinkedIn [here](https://linkedin.com/in/natasha--ng)
 - 💬 Ask me about anything [here](mailto:natasha-ng@outlook.com)
-<!-- - 🌱 I’m currently learning Angular -->
 - 🔭 I’m currently working on TBD! <!--[side projects of full stack apps with CRUD operations and REST API calls](https://github.com/natashang?tab=repositories) -->
 - ⚡ Fun fact: Aug 30, 2020 - I biked 55 miles this summer and completed my goal of conquering a local trail end to end!
 - 🎨 Check out my old graphic design portfolio [here](https://natashang.weebly.com/) <!-- Bookmarking it here for nostalgia -->
