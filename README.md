@@ -18,13 +18,14 @@ I'm a Front End Software Developer from Seattle.
 
 I've worked on a variety of both internal and customer-facing projects as a UX/UI Designer, React Developer, and Web Designer. I've also dabbled in some QA work in the Azure Data Explorer cloud platform.
 
-I'm passionate about building applications with the audience or customer in mind to create a creative, thoughtful user experience.
+I'm passionate about writing clean, understandable, and reusable components. I simplify my code so that my future self will (hopefully) thank me... and question me less on why I did things the way I did. I'm a visual, creative, and logical thinker.
 
 - 🌐 Visit my LinkedIn [here](https://linkedin.com/in/natasha--ng)
 - 💬 Ask me about anything [here](mailto:natasha-ng@outlook.com)
-- 🌱 I’m currently learning Angular
-- 🔭 I’m currently working on [side projects of full stack apps with CRUD operations and REST API calls](https://github.com/natashang?tab=repositories)
+<!-- - 🌱 I’m currently learning Angular -->
+- 🔭 I’m currently working on TBD! <!--[side projects of full stack apps with CRUD operations and REST API calls](https://github.com/natashang?tab=repositories) -->
 - ⚡ Fun fact: Aug 30, 2020 - I biked 55 miles this summer and completed my goal of conquering a local trail end to end!
+- 🎨 Check out my old graphic design portfolio [here](https://natashang.weebly.com/) <!-- Bookmarking it here for nostalgia -->
 
 **Languages and Tools:**  
 
